@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "BitRacer": "github:51135499/bitracer#master"
     },
     "files": [
         "main.blocks",
